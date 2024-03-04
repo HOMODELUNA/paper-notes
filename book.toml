@@ -1,0 +1,6 @@
+[book]
+authors = ["homodeluna"]
+language = "en"
+multilingual = false
+src = "src"
+title = "读书笔记"
